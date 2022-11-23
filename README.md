@@ -17,4 +17,5 @@ Soy estudiante de Programacion con orientacion en Dieño Web, con estudios semic
 
 # Redes Sociales
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=plastic&logo=appveyor)](https://instagram.com/manuelseisdedos)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelseisdedos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-seisdedos-216a56254/)
