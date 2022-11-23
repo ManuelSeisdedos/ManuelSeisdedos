@@ -1,6 +1,6 @@
 ## <h1 align="center"> ¡Hola, Soy Manuel Seisdedos! </h1>
 
-[Full stack developer](https://i.postimg.cc/Znxn5kZ7/FULL-STACK-DEVELOPER-1.png)](https://postimg.cc/m1hBm5PC)
+![Full stack developer](https://i.postimg.cc/Znxn5kZ7/FULL-STACK-DEVELOPER-1.png)](https://postimg.cc/m1hBm5PC)
 
 # Sobre mi
 
@@ -9,3 +9,4 @@ Soy estudiante de Programacion con orientacion en Dieño Web, con estudios semic
 
 # Tecnologias
 ![JS](https://img.shields.io/badge/JS-JavaScript-yellow)
+![ND](https://img.shields.io/badge/Nd-NodeJs-green)
