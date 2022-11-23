@@ -13,3 +13,8 @@ Soy estudiante de Programacion con orientacion en Dieño Web, con estudios semic
 ![RC](https://img.shields.io/badge/Rc-React-blue)
 ![ND](https://img.shields.io/badge/Nd-NodeJs-green)
 ![MB](https://img.shields.io/badge/MB-MongoDB-green)
+![CS](https://img.shields.io/badge/CS-CSS-lightblue)
+
+# Redes Sociales
+
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=plastic&logo=appveyor)](https://instagram.com/manuelseisdedos)
