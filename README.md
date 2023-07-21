@@ -4,7 +4,7 @@
 
 # Sobre mi
 
-Soy estudiante de Programacion con orientacion en Dieño Web, con estudios semicompletos en la carrera de Administracion de Empresas en la Universidad Nacional de La Plata. Me gusta aprender continuamente, mantener mi cerebro en un trabajo constante. Creo en que las habilidades aprendidas pueden generar una fusion de tecnicas y conocimiento que ayudan a pensar de manera abstracta cada problema. Adoro jugar al futbol, las mascotas y los viajes. 
+Programador con orientacion en Dieño Web, con estudios avanzados en la carrera de Administracion de Empresas en la Universidad Nacional de La Plata. Me gusta aprender continuamente, mantener mi cerebro en un trabajo constante. Creo en que las habilidades aprendidas pueden generar una fusion de tecnicas y conocimiento que ayudan a pensar de manera abstracta cada problema. Adoro jugar al futbol, las mascotas y los viajes. 
 
 
 # Tecnologias
