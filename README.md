@@ -19,3 +19,4 @@ Programador con orientacion en Dieño Web, con estudios avanzados en la carrera 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/manuelseisdedos)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-seisdedos-216a56254/)
+[![](mseisdedos.com)
