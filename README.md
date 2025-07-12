@@ -4,7 +4,9 @@
 
 # Sobre mi
 
-Programador con orientacion en Dieño Web, con estudios avanzados en la carrera de Administracion de Empresas en la Universidad Nacional de La Plata. Me gusta aprender continuamente, mantener mi cerebro en un trabajo constante. Creo en que las habilidades aprendidas pueden generar una fusion de tecnicas y conocimiento que ayudan a pensar de manera abstracta cada problema. Adoro jugar al futbol, las mascotas y los viajes. 
+Soy desarrollador full stack con experiencia en la construcción de aplicaciones web utilizando tecnologías modernas como React y Node.js. Actualmente, me encuentro trabajando con el stack Angular y NestJS, lo que me ha permitido seguir ampliando mis habilidades en el desarrollo de aplicaciones escalables, robustas y bien estructuradas.
+
+Me interesa crear soluciones funcionales, enfocadas en la experiencia del usuario y con buenas prácticas de desarrollo. Disfruto aprender nuevas tecnologías y participar en proyectos que representen un desafío técnico y creativo.
 
 
 # Tecnologias
